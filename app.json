@@ -1,0 +1,16 @@
+{
+  "name": "telegram-file-filter-bot",
+  "description": "Telegram File Filter Bot",
+  "repository": "https://github.com/your-github-repo",
+  "keywords": ["telegram", "bot"],
+  "env": {
+    "TELEGRAM_TOKEN": {
+      "description": "Telegram Bot Token",
+      "required": true
+    },
+    "TELEGRAPH_TOKEN": {
+      "description": "Telegraph Token",
+      "required": true
+    }
+  }
+}
